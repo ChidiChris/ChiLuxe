@@ -22,7 +22,7 @@ A modern real estate web platform where users can easily search for houses and a
 
 
 ## Live Version
-Click [HERE](https://realtor-opal.vercel.app) to visit the live version of this web application.
+Click [HERE](https://chiluxe.vercel.app/) to visit the live version of this web application.
 
 ⚡ Getting Started
 
